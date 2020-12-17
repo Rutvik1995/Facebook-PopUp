@@ -21,6 +21,8 @@ This project is a demo for authorizing and authenticating the request to API End
 </table>
 
 <b>Step 2: Creating the Demo app on Wex Development Portal</b>
+
+
 Once the app is created on the Wex Developer portal, copy the Client ID  and Client Secret from under the local session.
 
 
