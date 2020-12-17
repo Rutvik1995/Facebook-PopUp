@@ -33,5 +33,5 @@ Once the app is created on the Wex Developer portal, copy the Client ID  and Cli
 Create the POST request and enter https://auth.wexapps.com/v2/token in the URL. Paste the Client ID, Client Secret and grant_type in the body of the request.
 
 <p align="center>
-  <img src="https://user-images.githubusercontent.com/26616966/102526654-99b95f00-4061-11eb-9784-3249c7b7e2f9.png">
+  <img src="https://user-images.githubusercontent.com/26616966/102526654-99b95f00-4061-11eb-9784-3249c7b7e2f9.png" >
 </p>
