@@ -5,4 +5,9 @@ This project is a demo for authorizing and authenticating the request to API End
 
 [Wex Development portal](https://portal.wexapps.com/) provides the interface for a client to create the token and assign different roles to it.
 
-<c>![CreateApp](https://user-images.githubusercontent.com/26616966/102420400-ac7f5580-3fc7-11eb-9b90-74adcb4e9a41.png)</c>
+![CreateApp](https://user-images.githubusercontent.com/26616966/102420400-ac7f5580-3fc7-11eb-9b90-74adcb4e9a41.png)
+
+
+<p align="center">
+  <img width="460" height="300" src="![CreateApp](https://user-images.githubusercontent.com/26616966/102420400-ac7f5580-3fc7-11eb-9b90-74adcb4e9a41.png)">
+</p>
