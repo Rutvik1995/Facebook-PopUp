@@ -78,5 +78,8 @@ If the response comes as shown below, then the project is running correctly.
 
   * At the time of creating the app in step 2, we have assigned create and update roles. For creating a new product, http://localhost:8080/products is requested from   Postman. The token and product description is also passed, as shown below.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/26616966/102551122-98e5f480-4084-11eb-97f6-3bcf5347a280.png">
+  </p>
 
 
