@@ -24,5 +24,8 @@ This project is a demo for authorizing and authenticating the request to API End
 
 
 Once the app is created on the Wex Developer portal, copy the Client ID  and Client Secret from under the local session.
+<p>
+  <img src="https://user-images.githubusercontent.com/26616966/102522591-0fbac780-405c-11eb-9326-7509e573afce.png">
+</p>
 
 
