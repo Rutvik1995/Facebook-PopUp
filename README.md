@@ -76,7 +76,7 @@ If the response comes as shown below, then the project is running correctly.
 
 1. Create Product
 
-  At the time of creating the app in step 2, we have assigned create and update roles. For creating a new product, http://localhost:8080/products is requested from   Postman. The token and product description is also passed, as shown below.
+  * At the time of creating the app in step 2, we have assigned create and update roles. For creating a new product, http://localhost:8080/products is requested from   Postman. The token and product description is also passed, as shown below.
 
 
 
