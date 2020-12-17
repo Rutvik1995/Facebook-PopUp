@@ -20,6 +20,6 @@ This project is a demo for authorizing and authenticating the request to API End
   </tr>
 </table>
 
-
+<b>Step 2: Creating the Demo app on Wex Development Portal</b>
 
 
