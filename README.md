@@ -28,7 +28,7 @@ Once the app is created on the Wex Developer portal, copy the Client ID  and Cli
   <img src="https://user-images.githubusercontent.com/26616966/102522591-0fbac780-405c-11eb-9326-7509e573afce.png">
 </p>
 
-<b>Step 3: Setting up the request in Postman to get token</b>
+<b>Step 3: Setting up the Post request in Postman to generate token</b>
 
 Create the POST request and enter https://auth.wexapps.com/v2/token in the URL. Paste the Client ID, Client Secret and Grant Type in the body of the request.
 
