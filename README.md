@@ -9,5 +9,5 @@ This project is a demo for authorizing and authenticating the request to API End
 
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/26616966/102420400-ac7f5580-3fc7-11eb-9b90-74adcb4e9a41.png">
+  <img width="100%" height="300" src="https://user-images.githubusercontent.com/26616966/102420400-ac7f5580-3fc7-11eb-9b90-74adcb4e9a41.png">
 </p>
