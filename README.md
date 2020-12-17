@@ -59,6 +59,7 @@ To check the project is running correctly, you can call the GET health check API
 
 If the response comes as shown below then the project is running correctly.
 
+
 <p>
   <img src="https://user-images.githubusercontent.com/26616966/102541750-67fec300-4076-11eb-8166-2589b6236dbb.png">
 </p>
