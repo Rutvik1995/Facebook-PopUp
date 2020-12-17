@@ -46,3 +46,4 @@ Once the request is passed successfully, a token is created in the response body
 
 <b>Step 4: Starting the project</b>
 
+To clone and run this application, you'll need Git and Java 11 installed on your computer. Once the project is cloned, run the project from your IDE. The project will start running on port number 8080.
