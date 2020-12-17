@@ -69,9 +69,9 @@ If the response comes as shown below, then the project is running correctly.
 
 * After the project is running correctly, the project can be tested by calling the different API endpoints and passing tokens in the request.
 
-* The role assigned to the token is checked whether the particular role assigned has access to API Endpoint. 
+* When any request is called,  firstly role assigned to the token is checked whether the particular role assigned has access to API Endpoint.
 
-* The Wex auth library runs different tests for authenticating the token and checks that the weather token is not expired.
+* Secondly, the token is passed to the WEX auth library, which runs different tests for authenticating the token and checks that the weather token is not expired.
 
 
 
