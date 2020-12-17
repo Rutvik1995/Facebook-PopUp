@@ -10,14 +10,14 @@ This project is a demo for authorizing and authenticating the request to API End
     <th><p align="center">
   <img height="400" src="https://user-images.githubusercontent.com/26616966/102420400-ac7f5580-3fc7-11eb-9b90-74adcb4e9a41.png">
 </p></th>
-    <th>Lastname</th>
+    <th><p align="center">
+   <img height="400" src="https://user-images.githubusercontent.com/26616966/102509867-a4b5c480-404c-11eb-875a-e3aa2e152a47.png">
+  </p></th>
     <th>Age</th>
   </tr>
   <tr>
     <td>
-<p align="center">
-   <img height="400" src="https://user-images.githubusercontent.com/26616966/102509867-a4b5c480-404c-11eb-875a-e3aa2e152a47.png">
-  </p></td>
+</td>
     <td>Smith</td>
     <td>50</td>
   </tr>
