@@ -63,3 +63,16 @@ If the response comes as shown below, then the project is running correctly.
 <p>
   <img src="https://user-images.githubusercontent.com/26616966/102541750-67fec300-4076-11eb-8166-2589b6236dbb.png">
 </p>
+
+
+<b>Step 5: Testing the API endpoint </b>
+
+After the project is running correctly, the project can be tested by calling the different API endpoints and passing tokens in the request.
+
+The role assigned to the token is checked whether the particular role assigned has access to API Endpoint. 
+
+The Wex auth library runs different tests for authenticating the token and checks that the weather token is not expired.
+
+
+
+
