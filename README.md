@@ -74,7 +74,7 @@ If the response comes as shown below, then the project is running correctly.
 * Secondly, the token is passed to the WEX auth library, which runs different tests for authenticating the token and checks that the weather token is not expired.
 
 
-1. Create Product
+<b>1. Create Product</b>
 
   * At the time of creating the app in step 2, we have assigned create and update roles. For creating a new product, http://localhost:8080/products is requested from   Postman. The token and product description is also passed, as shown below.
 
