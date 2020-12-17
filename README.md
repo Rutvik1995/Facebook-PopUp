@@ -50,3 +50,15 @@ To clone and run this application, you'll need Git and Java 11 installed on your
 
 
 To check the project is running correctly, you can call the health check API endpoint.
+
+
+
+<p>
+  <img src="https://user-images.githubusercontent.com/26616966/102540972-6ed90600-4075-11eb-90be-6c0685a2ff66.png">
+</p>
+
+Once the request is passed successfully, a token is created in the response body.
+
+<p>
+  <img src="https://user-images.githubusercontent.com/26616966/102541750-67fec300-4076-11eb-8166-2589b6236dbb.png">
+</p>
