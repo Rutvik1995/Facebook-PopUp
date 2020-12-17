@@ -87,4 +87,6 @@ If the response comes as shown below, then the project is running correctly.
 
 * If all the tests are passed, then a new product is added. A success message appeared in the Postman response section. 
 
-
+<p>
+  <img src="https://user-images.githubusercontent.com/26616966/102552628-24608500-4087-11eb-9cf2-43438153aeba.png">
+</p>  
