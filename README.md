@@ -49,13 +49,14 @@ Once the request is passed successfully, a token is created in the response body
 To clone and run this application, you'll need Git and Java 11 installed on your computer. Once the project is cloned, run the project from your IDE. The project will start running on port number 8080.
 
 
-To check the project is running correctly, you can call the health check API endpoint.
+To check the project is running correctly, you can call the GET health check API endpoint (http://localhost:8080/health) in Postman. 
 
 
 
 <p>
   <img src="https://user-images.githubusercontent.com/26616966/102540972-6ed90600-4075-11eb-90be-6c0685a2ff66.png">
 </p>
+
 If the response comes as shown below then the project is running correctly.
 
 <p>
