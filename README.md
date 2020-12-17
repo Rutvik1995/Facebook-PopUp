@@ -91,4 +91,13 @@ If the response comes as shown below, then the project is running correctly.
   <img src="https://user-images.githubusercontent.com/26616966/102552628-24608500-4087-11eb-9cf2-43438153aeba.png">
 </p>  
 
-<b> 2. Get Product
+<b> 2. Get Product </b>
+* Any product's information can be obtained by calling API http://localhost:8080/products/{productID}.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/26616966/102556263-1a8e5000-408e-11eb-90fe-5e2ca252905e.png">
+</p>
+<p>
+  <img src="https://user-images.githubusercontent.com/26616966/102556317-3a257880-408e-11eb-891a-5293a0d22f36.png">
+</p>
+
