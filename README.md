@@ -56,8 +56,7 @@ To check the project is running correctly, you can call the health check API end
 <p>
   <img src="https://user-images.githubusercontent.com/26616966/102540972-6ed90600-4075-11eb-90be-6c0685a2ff66.png">
 </p>
-
-Once the request is passed successfully, a token is created in the response body.
+If the response comes as shown below then the project is running correctly.
 
 <p>
   <img src="https://user-images.githubusercontent.com/26616966/102541750-67fec300-4076-11eb-8166-2589b6236dbb.png">
