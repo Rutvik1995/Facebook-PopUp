@@ -37,4 +37,5 @@ Create the POST request and enter https://auth.wexapps.com/v2/token in the URL. 
   <img src="https://user-images.githubusercontent.com/26616966/102526654-99b95f00-4061-11eb-9784-3249c7b7e2f9.png">
 </p>
 
+Once the request is passed successfully, a token is created in the response body.
 
