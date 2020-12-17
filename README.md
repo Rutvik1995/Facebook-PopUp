@@ -90,3 +90,5 @@ If the response comes as shown below, then the project is running correctly.
 <p>
   <img src="https://user-images.githubusercontent.com/26616966/102552628-24608500-4087-11eb-9cf2-43438153aeba.png">
 </p>  
+
+<b> 2. Get Product
