@@ -101,3 +101,8 @@ If the response comes as shown below, then the project is running correctly.
   <img src="https://user-images.githubusercontent.com/26616966/102556317-3a257880-408e-11eb-891a-5293a0d22f36.png">
 </p>
 
+<b> 3. Delete Product </b>
+
+* The product can be deleted by calling http://localhost:8080/products/{productID} API and setting the method to Delete.
+
+
