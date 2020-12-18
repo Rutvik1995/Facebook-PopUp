@@ -25,7 +25,7 @@ This project is a demo for authorizing and authenticating the client or client A
 
 Once the app is created on the Wex Developer portal, copy the Client ID and Client Secret from under the local session.
 <p>
-  <img src="https://user-images.githubusercontent.com/26616966/102566284-d5c1e380-40a4-11eb-9d7f-b581ecfaabb2.png">
+  <img src="https://user-images.githubusercontent.com/26616966/102566535-5e408400-40a5-11eb-88fe-42ba16289106.png">
 </p>
 
 <b>Step 3: Setting up the Post request in Postman to generate token</b>
