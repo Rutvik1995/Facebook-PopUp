@@ -34,7 +34,7 @@ Set the method to Post and enter URL to https://auth.wexapps.com/v2/token. Paste
 
 
 <p>
-  <img src="https://user-images.githubusercontent.com/26616966/102526654-99b95f00-4061-11eb-9784-3249c7b7e2f9.png">
+  <img src="https://user-images.githubusercontent.com/26616966/102566284-d5c1e380-40a4-11eb-9d7f-b581ecfaabb2.png">
 </p>
 
 Once the request is passed successfully, a token is created in the response body.
