@@ -71,7 +71,7 @@ If the response comes as shown below, then the project is running correctly.
 
 * When any request is called,  firstly role assigned to the token is checked whether the particular role assigned has access to API endpoint.
 
-* Secondly, the token is passed to the WEX auth library, which runs different tests for authenticating the token and checks that the weather token is not expired.
+* Secondly, the token is passed to the WEX auth library, which runs different tests for authenticating the token and checks weather token is not expired.
 
 
 <b>1. Create Product</b>
