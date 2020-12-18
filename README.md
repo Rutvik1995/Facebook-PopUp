@@ -109,3 +109,8 @@ If the response comes as shown below, then the project is running correctly.
 <img src="https://user-images.githubusercontent.com/26616966/102565420-099c0980-40a3-11eb-917a-5f6e03a2dcca.png">
 </p>
 
+* The token which is passed in the request does not have the delete role assigned to it. So the request can not be complete and it gives 401 unauthorized error.
+
+<p>
+  <img src="https://user-images.githubusercontent.com/26616966/102565426-0e60bd80-40a3-11eb-9041-51c6cacf6110.png">
+  </p>
