@@ -1,9 +1,9 @@
 # gf-efs-phoenix-otr-wexauth-rsdemo
-This project is a demo for authorizing and authenticating the request to API Endpoint by the client or client API. This project uses the [WEX auth library](https://github.com/wexinc/gf-efs-phoenix-otr-wexauth) for authenticating the token, which is being passed in the request.
+This project is a demo for authorizing and authenticating the request to API endpoint by the client or client API. This project uses the [WEX auth library](https://github.com/wexinc/gf-efs-phoenix-otr-wexauth) for authenticating the token, which is being passed in the request.
 
 <b>Step 1: Creating the Demo app on Wex Development Portal</b>
 
-[Wex Development portal](https://portal.wexapps.com/) provides the interface for a client to create the token and assign different roles to it. The client can be able to access different API endpoints of different roles assigned to them.
+[Wex Development Portal](https://portal.wexapps.com/) provides the interface for a client to create the token and assign different roles to it. The client can be able to access different API endpoints of different roles assigned to them.
 
 <table align="center"  >
   <tr>
@@ -69,7 +69,7 @@ If the response comes as shown below, then the project is running correctly.
 
 * After the project is running correctly, the project can be tested by calling the different API endpoints and passing tokens in the request.
 
-* When any request is called,  firstly role assigned to the token is checked whether the particular role assigned has access to API Endpoint.
+* When any request is called,  firstly role assigned to the token is checked whether the particular role assigned has access to API endpoint.
 
 * Secondly, the token is passed to the WEX auth library, which runs different tests for authenticating the token and checks that the weather token is not expired.
 
