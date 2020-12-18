@@ -76,7 +76,7 @@ If the response comes as shown below, then the project is running correctly.
 
 <b>1. Create Product</b>
 
-  *  In order to create a new product, a Post request needs to execute. The token generated in step 3 is pasted inside the bearer token section in Postman. The product description is also passed inside the request body, as shown below. Set the URL to http://localhost:8080/products.
+* In order to create a new product, a Post request needs to execute. The token generated in step 3 is pasted inside the bearer token under Authorization. The product description is passed inside the request body, as shown below. Set the URL to http://localhost:8080/products.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/26616966/102551122-98e5f480-4084-11eb-97f6-3bcf5347a280.png">
@@ -92,7 +92,7 @@ If the response comes as shown below, then the project is running correctly.
 </p>  
 
 <b> 2. Get Product </b>
-* Any product's information can be obtained by calling API http://localhost:8080/products/{productID}.
+* Any product's information can be obtained by calling GET API Endpont http://localhost:8080/products/{productID}.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/26616966/102556263-1a8e5000-408e-11eb-90fe-5e2ca252905e.png">
