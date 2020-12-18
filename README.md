@@ -14,7 +14,7 @@ This project is a demo for authorizing and authenticating the request to API End
     </th>
     <th>
       <p align="center">
-        <img height="400" src="https://user-images.githubusercontent.com/26616966/102509867-a4b5c480-404c-11eb-875a-e3aa2e152a47.png">
+        <img height="400" src="https://user-images.githubusercontent.com/26616966/102562379-92fc0d80-409c-11eb-9d24-ea7807174f1a.png">
       </p>
     </th>
   </tr>
